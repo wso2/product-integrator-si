@@ -194,7 +194,7 @@ siddhi-execution-list-1.0.2.jar                                                 
 siddhi-io-email-2.0.8.jar                                                                           bundle         apache2             
 siddhi-execution-regex-5.0.7.jar                                                                    bundle         apache2             
 siddhi-map-keyvalue-2.1.2.jar                                                                       bundle         apache2             
-siddhi-io-file-2.0.25.jar                                                                           bundle         apache2             
+siddhi-io-file-2.0.26.jar                                                                           bundle         apache2             
 siddhi-map-binary-2.1.1.jar                                                                         bundle         apache2             
 siddhi-execution-string-5.0.13.jar                                                                  bundle         apache2             
 siddhi-script-js-5.0.4.jar                                                                          bundle         apache2             
