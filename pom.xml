@@ -28,7 +28,7 @@
     <groupId>org.wso2.ei</groupId>
     <artifactId>wso2-streaming-integrator-parent</artifactId>
     <packaging>pom</packaging>
-    <version>4.4.0-SNAPSHOT</version>
+    <version>4.4.0-alpha</version>
     <name>WSO2 Streaming Integrator - Parent</name>
 
     <url>http://wso2.org</url>
@@ -1208,10 +1208,10 @@
 
     <properties>
         <streaming.integration.version>${project.version}</streaming.integration.version>
-        <carbon.analytics.version>3.0.77-SNAPSHOT</carbon.analytics.version>
-        <siddhi.version>5.1.32-SNAPSHOT</siddhi.version>
+        <carbon.analytics.version>3.0.77-alpha</carbon.analytics.version>
+        <siddhi.version>5.1.32-alpha</siddhi.version>
 
-        <carbon.analytics-common.version>6.1.70-SNAPSHOT</carbon.analytics-common.version>
+        <carbon.analytics-common.version>6.1.71-alpha</carbon.analytics-common.version>
         <!-- Maven plugins -->
         <!--Bundle Plugin - Overridden from parent due to a bug in latest version related to capability providers-->
         <maven.bundle.plugin.version>2.5.4</maven.bundle.plugin.version>
