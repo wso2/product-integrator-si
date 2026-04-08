@@ -1208,10 +1208,10 @@
 
     <properties>
         <streaming.integration.version>${project.version}</streaming.integration.version>
-        <carbon.analytics.version>3.0.77-SNAPSHOT</carbon.analytics.version>
-        <siddhi.version>5.1.32-SNAPSHOT</siddhi.version>
+        <carbon.analytics.version>3.0.77</carbon.analytics.version>
+        <siddhi.version>5.1.32</siddhi.version>
 
-        <carbon.analytics-common.version>6.1.70-SNAPSHOT</carbon.analytics-common.version>
+        <carbon.analytics-common.version>6.1.70</carbon.analytics-common.version>
         <!-- Maven plugins -->
         <!--Bundle Plugin - Overridden from parent due to a bug in latest version related to capability providers-->
         <maven.bundle.plugin.version>2.5.4</maven.bundle.plugin.version>
