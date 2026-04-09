@@ -1318,7 +1318,7 @@
         <com.fasterxml.jackson.databind.version>2.18.6</com.fasterxml.jackson.databind.version>
         <io.swagger.version>1.5.22</io.swagger.version>
         <javax.ws.rs-api.version>2.0</javax.ws.rs-api.version>
-        <pax.logging.api.version>2.1.0-wso2v3</pax.logging.api.version>
+        <pax.logging.api.version>2.2.9-wso2v2</pax.logging.api.version>
         <javax.servlet.version>3.1.0</javax.servlet.version>
 
 
@@ -1391,7 +1391,7 @@
         <mysql.con.version>6.0.5</mysql.con.version>
         <googlecode.json-simple.version>1.1.wso2v1</googlecode.json-simple.version>
         <io.netty.version>4.1.132.Final</io.netty.version>
-        <log4j.version>2.24.3</log4j.version>
+        <log4j.version>2.25.4</log4j.version>
         <nimbus.jose.jwt.version>9.37.4</nimbus.jose.jwt.version>
         <bouncycastle.version>1.78.1</bouncycastle.version>
         <commons.compress.version>1.26.0</commons.compress.version>
