@@ -20,18 +20,18 @@
 <Configuration>
     <Appenders>
         <Console name="CARBON_CONSOLE" target="SYSTEM_OUT">
-            <PatternLayout pattern="[%d] %5p {%c} - %m%ex%n"/>
+            <PatternLayout pattern="[%d] %5p {%c} - %m %ex%n"/>
         </Console>
         <RollingFile name="CARBON_LOGFILE" fileName="${sys:wso2.runtime.path}/logs/carbon.log"
                      filePattern="${sys:wso2.runtime.path}/logs/carbon-%d{MM-dd-yyyy}.log">
-            <PatternLayout pattern="[%d] %5p {%c} - %m%ex%n"/>
+            <PatternLayout pattern="[%d] %5p {%c} - %m %ex%n"/>
             <Policies>
                 <TimeBasedTriggeringPolicy/>
             </Policies>
         </RollingFile>
         <RollingFile name="AUDIT_LOGFILE" fileName="${sys:wso2.runtime.path}/logs/audit.log"
                      filePattern="${sys:wso2.runtime.path}/logs/audit-%d{MM-dd-yyyy}.log">
-            <PatternLayout pattern="[%d] %5p %X %m%ex%n"/>
+            <PatternLayout pattern="[%d] %5p %X %m %ex%n"/>
             <Policies>
                 <TimeBasedTriggeringPolicy/>
             </Policies>
