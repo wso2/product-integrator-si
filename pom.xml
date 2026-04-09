@@ -1235,11 +1235,11 @@
 
         <!-- Dependencies -->
         <open.tracing.version>0.31.0</open.tracing.version>
-        <carbon.kernel.version>5.3.2</carbon.kernel.version>
+        <carbon.kernel.version>5.3.3</carbon.kernel.version>
         <carbon.kernel.package.import.version.range>[5.2.0, 6.0.0)</carbon.kernel.package.import.version.range>
         <carbon.kernel.pax.version>5.2.17</carbon.kernel.pax.version>
 
-        <carbon.deployment.version>5.2.2</carbon.deployment.version>
+        <carbon.deployment.version>5.2.3</carbon.deployment.version>
 
         <powermock.version>1.6.2</powermock.version>
         <junit.version>4.10</junit.version>
