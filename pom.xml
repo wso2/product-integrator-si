@@ -1377,7 +1377,7 @@
         <siddhi.store.rdbms.version>7.0.19</siddhi.store.rdbms.version>
         <siddhi.store.mongodb.version>3.0.0</siddhi.store.mongodb.version>
 
-        <siddhi.script.js.version>5.0.5-SNAPSHOT</siddhi.script.js.version>
+        <siddhi.script.js.version>5.1.0-SNAPSHOT</siddhi.script.js.version>
 
         <carbon.coordination.version>2.1.10</carbon.coordination.version>
 
