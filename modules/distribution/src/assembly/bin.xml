@@ -39,6 +39,9 @@
                 <exclude>bin/jartobundle.bat</exclude>
                 <exclude>bin/osgi-lib.bat</exclude>
                 <exclude>bin/osgi-lib.sh</exclude>
+                <exclude>bin/spi-provider.sh</exclude>
+                <exclude>bin/install-jars.sh</exclude>
+                <exclude>bin/jni-provider.sh</exclude>
                 <exclude>release-notes.html</exclude>
                 <exclude>conf/osgi/launch.properties</exclude>
                 <exclude>conf/deployment.yaml</exclude>
