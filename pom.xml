@@ -1362,7 +1362,7 @@
         <siddhi.io.kafka.version>5.0.21</siddhi.io.kafka.version>
         <siddhi.io.http.version>2.3.7</siddhi.io.http.version>
         <siddhi.io.websocket.version>3.0.3</siddhi.io.websocket.version>
-        <siddhi.io.cdc.version>2.1.1</siddhi.io.cdc.version>
+        <siddhi.io.cdc.version>2.2.0</siddhi.io.cdc.version>
         <siddhi.io.grpc.version>1.0.14</siddhi.io.grpc.version>
         <protobuf.java.version>3.25.5</protobuf.java.version>
 
@@ -1377,7 +1377,7 @@
         <siddhi.store.rdbms.version>7.0.19</siddhi.store.rdbms.version>
         <siddhi.store.mongodb.version>3.0.0</siddhi.store.mongodb.version>
 
-        <siddhi.script.js.version>5.0.4</siddhi.script.js.version>
+        <siddhi.script.js.version>5.0.5-SNAPSHOT</siddhi.script.js.version>
 
         <carbon.coordination.version>2.1.10</carbon.coordination.version>
 
