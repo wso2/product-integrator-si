@@ -196,13 +196,21 @@ siddhi-map-keyvalue-2.1.2.jar                                                   
 siddhi-io-file-2.0.28.jar                                                                           bundle         apache2
 siddhi-map-binary-2.1.1.jar                                                                         bundle         apache2
 siddhi-execution-string-5.0.13.jar                                                                  bundle         apache2
-siddhi-script-js-5.0.4.jar                                                                          bundle         apache2
+siddhi-script-js-5.1.0-SNAPSHOT.jar                                                                 bundle         apache2
+nashorn-core-15.7.0.wso2v1.jar                                                                      bundle         gpl2 + classpathexception + bsd
 
 
 The license types used by the above libraries and their information is given below:
 
 apache2        Apache License Version 2.0
                http://www.apache.org/licenses/LICENSE-2.0.html
+gpl2           GNU General Public License Version 2.0
+               https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+classpathexception
+               GNU Classpath Exception
+               https://openjdk.org/legal/gplv2+ce.html
+bsd            BSD 3-Clause License
+               https://asm.ow2.io/license.html
 epl1           Eclipse Public License
                http://www.eclipse.org/legal/epl-v10.html
 cddl1          Common Development and Distribution License

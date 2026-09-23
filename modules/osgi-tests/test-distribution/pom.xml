@@ -475,9 +475,9 @@
                                     <type>jar</type>
                                 </artifactItem>
                                 <artifactItem>
-                                    <groupId>io.siddhi.extension.script.js</groupId>
-                                    <artifactId>nashorn-core-osgi</artifactId>
-                                    <version>${siddhi.script.js.version}</version>
+                                    <groupId>org.wso2.orbit.org.openjdk.nashorn</groupId>
+                                    <artifactId>nashorn-core</artifactId>
+                                    <version>${nashorn.orbit.version}</version>
                                     <type>jar</type>
                                 </artifactItem>
 
