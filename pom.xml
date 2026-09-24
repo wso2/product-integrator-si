@@ -1313,9 +1313,9 @@
         <common.collections4.version>4.4</common.collections4.version>
 
         <!--MSF4J related-->
-        <msf4j.version>2.9.1</msf4j.version>
-        <com.fasterxml.jackson.core.version>2.21.2</com.fasterxml.jackson.core.version>
-        <com.fasterxml.jackson.databind.version>2.21.2</com.fasterxml.jackson.databind.version>
+        <msf4j.version>2.9.2-SNAPSHOT</msf4j.version>
+        <com.fasterxml.jackson.core.version>2.21.7</com.fasterxml.jackson.core.version>
+        <com.fasterxml.jackson.databind.version>2.21.7</com.fasterxml.jackson.databind.version>
         <com.fasterxml.jackson.annotations.version>2.21</com.fasterxml.jackson.annotations.version>
         <io.swagger.version>1.5.22</io.swagger.version>
         <javax.ws.rs-api.version>2.0</javax.ws.rs-api.version>
@@ -1393,7 +1393,7 @@
         <org.snakeyaml.version>2.6</org.snakeyaml.version>
         <mysql.con.version>6.0.5</mysql.con.version>
         <googlecode.json-simple.version>1.1.wso2v1</googlecode.json-simple.version>
-        <io.netty.version>4.1.133.Final</io.netty.version>
+        <io.netty.version>4.1.138.Final</io.netty.version>
         <log4j.version>2.25.4</log4j.version>
         <nimbus.jose.jwt.version>9.37.4</nimbus.jose.jwt.version>
         <bouncycastle.version>1.78.1</bouncycastle.version>
