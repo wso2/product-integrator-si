@@ -510,9 +510,9 @@
                                     <type>jar</type>
                                 </artifactItem>
                                 <artifactItem>
-                                    <groupId>org.wso2.orbit.javax.xml.bind</groupId>
-                                    <artifactId>jaxb-api</artifactId>
-                                    <version>${org.wso2.orbit.javax.xml.bind.version}</version>
+                                    <groupId>com.sun.xml.bind</groupId>
+                                    <artifactId>jaxb-core</artifactId>
+                                    <version>${com.sun.xml.bind.version}</version>
                                     <type>jar</type>
                                 </artifactItem>
                                 <artifactItem>
