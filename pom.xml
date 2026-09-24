@@ -1247,7 +1247,7 @@
 
         <carbon.datasources.version>1.1.18</carbon.datasources.version>
         <carbon.metrics.version>2.3.24</carbon.metrics.version>
-        <carbon.jndi.version>1.0.5</carbon.jndi.version>
+        <carbon.jndi.version>1.0.7</carbon.jndi.version>
 
         <carbon.cache.version>1.1.3</carbon.cache.version>
         <carbon.touchpoint.version>1.1.1</carbon.touchpoint.version>
