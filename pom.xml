@@ -1375,7 +1375,7 @@
         <siddhi.map.csv.version>2.1.2</siddhi.map.csv.version>
 
         <siddhi.store.rdbms.version>7.0.19</siddhi.store.rdbms.version>
-        <siddhi.store.mongodb.version>3.1.0-SNAPSHOT</siddhi.store.mongodb.version>
+        <siddhi.store.mongodb.version>3.1.0</siddhi.store.mongodb.version>
 
         <siddhi.script.js.version>5.1.0</siddhi.script.js.version>
         <nashorn.orbit.version>15.7.0.wso2v1</nashorn.orbit.version>
