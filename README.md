@@ -41,6 +41,8 @@ See the [tutorials](https://si.docs.wso2.com/examples/tutorials-overview/) to tr
 
 ### Build from the source
 
+SI 4.4.1 requires Java 17 or above at runtime. This is required by the CDC 2.2.0 extension and its embedded Debezium connectors.
+
 To build the WSO2 Streaming Integrator from source, follow the steps below.
 
   1. Clone or download the source code from this repository.

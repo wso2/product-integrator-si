@@ -1208,7 +1208,7 @@
 
     <properties>
         <streaming.integration.version>${project.version}</streaming.integration.version>
-        <carbon.analytics.version>3.0.79</carbon.analytics.version>
+        <carbon.analytics.version>3.0.80-SNAPSHOT</carbon.analytics.version>
         <siddhi.version>5.1.33</siddhi.version>
 
         <carbon.analytics-common.version>6.1.74</carbon.analytics-common.version>
@@ -1235,7 +1235,7 @@
 
         <!-- Dependencies -->
         <open.tracing.version>0.31.0</open.tracing.version>
-        <carbon.kernel.version>5.3.4</carbon.kernel.version>
+        <carbon.kernel.version>5.3.5-SNAPSHOT</carbon.kernel.version>
         <carbon.kernel.package.import.version.range>[5.2.0, 6.0.0)</carbon.kernel.package.import.version.range>
         <carbon.kernel.pax.version>5.2.17</carbon.kernel.pax.version>
 
@@ -1362,7 +1362,7 @@
         <siddhi.io.kafka.version>5.0.21</siddhi.io.kafka.version>
         <siddhi.io.http.version>2.3.7</siddhi.io.http.version>
         <siddhi.io.websocket.version>3.0.3</siddhi.io.websocket.version>
-        <siddhi.io.cdc.version>2.1.1</siddhi.io.cdc.version>
+        <siddhi.io.cdc.version>2.2.0</siddhi.io.cdc.version>
         <siddhi.io.grpc.version>1.0.14</siddhi.io.grpc.version>
         <protobuf.java.version>3.25.5</protobuf.java.version>
 
@@ -1375,9 +1375,10 @@
         <siddhi.map.csv.version>2.1.2</siddhi.map.csv.version>
 
         <siddhi.store.rdbms.version>7.0.19</siddhi.store.rdbms.version>
-        <siddhi.store.mongodb.version>3.0.0</siddhi.store.mongodb.version>
+        <siddhi.store.mongodb.version>3.1.0</siddhi.store.mongodb.version>
 
-        <siddhi.script.js.version>5.0.4</siddhi.script.js.version>
+        <siddhi.script.js.version>5.1.0</siddhi.script.js.version>
+        <nashorn.orbit.version>15.7.0.wso2v1</nashorn.orbit.version>
 
         <carbon.coordination.version>2.1.10</carbon.coordination.version>
 
