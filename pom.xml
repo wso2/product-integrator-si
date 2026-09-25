@@ -1285,7 +1285,7 @@
         <commons.logging.version>1.2</commons.logging.version>
         <geronimo.activation>1.1</geronimo.activation>
         <geronimo.stax>1.0.1</geronimo.stax>
-        <mime4j.version>0.8.10.wso2v1</mime4j.version>
+        <mime4j.version>0.8.11.wso2v1</mime4j.version>
 
         <!--pax-exam dependencies-->
         <javax.inject.version>1</javax.inject.version>
@@ -1394,7 +1394,7 @@
         <mysql.con.version>6.0.5</mysql.con.version>
         <googlecode.json-simple.version>1.1.wso2v1</googlecode.json-simple.version>
         <io.netty.version>4.1.138.Final</io.netty.version>
-        <log4j.version>2.25.4</log4j.version>
+        <log4j.version>2.25.5</log4j.version>
         <nimbus.jose.jwt.version>9.37.4</nimbus.jose.jwt.version>
         <bouncycastle.version>1.78.1</bouncycastle.version>
         <commons.compress.version>1.26.0</commons.compress.version>
