@@ -70,68 +70,91 @@ rules:
 - apiGroups:
   - ""
   resources:
-  - pods
-  - services
-  - endpoints
-  - persistentvolumeclaims
-  - events
   - configmaps
-  - secrets
+  - services
+  - persistentvolumeclaims
   verbs:
-  - '*'
+  - get
+  - list
+  - watch
+  - create
+  - update
+  - patch
+  - delete
 - apiGroups:
   - ""
   resources:
-  - namespaces
+  - pods
   verbs:
   - get
+  - list
+  - watch
+- apiGroups:
+  - ""
+  resources:
+  - events
+  verbs:
+  - create
+  - patch
 - apiGroups:
   - apps
   resources:
   - deployments
-  - daemonsets
-  - replicasets
-  - statefulsets
-  verbs:
-  - '*'
-- apiGroups:
-  - monitoring.coreos.com
-  resources:
-  - servicemonitors
   verbs:
   - get
+  - list
+  - watch
   - create
+  - update
+  - patch
+  - delete
+- apiGroups:
+  - apps
+  resources:
+  - replicasets
+  verbs:
+  - get
 - apiGroups:
   - siddhi.io
   resources:
-  - '*'
+  - siddhiprocesses
+  - siddhiprocesses/status
   verbs:
-  - '*'
+  - get
+  - list
+  - watch
+  - update
+  - patch
 - apiGroups:
   - nats.io
   resources:
   - natsclusters
-  - natsserviceroles
-  verbs: ["*"]
+  verbs:
+  - get
+  - list
+  - watch
+  - create
 - apiGroups:
   - streaming.nats.io
   resources:
   - natsstreamingclusters
-  verbs: ["*"]
-- apiGroups:
-  - "extensions"
-  - ""
-  resources:
-  - ingresses
-  - ingresses/status
   verbs:
   - get
-  - update
-  - create
   - list
-  - patch
-  - delete
   - watch
+  - create
+- apiGroups:
+  - extensions
+  - networking.k8s.io
+  resources:
+  - ingresses
+  verbs:
+  - get
+  - list
+  - watch
+  - create
+  - update
+  - patch
 
 
 ---

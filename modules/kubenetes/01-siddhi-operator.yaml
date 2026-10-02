@@ -27,7 +27,7 @@ spec:
       labels:
         name: streaming-integrator
     spec:
-      serviceAccountName: streaming-integrator
+      serviceAccountName: siddhi-operator
       containers:
         - name: siddhi-operator
           image: siddhiio/siddhi-operator:0.2.0-beta
