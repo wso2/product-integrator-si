@@ -1356,12 +1356,12 @@
         <siddhi.execution.map.version>5.0.9</siddhi.execution.map.version>
         <siddhi.execution.list.version>1.0.2</siddhi.execution.list.version>
 
-        <siddhi.io.file.version>2.0.30</siddhi.io.file.version>
+        <siddhi.io.file.version>2.0.31</siddhi.io.file.version>
         <siddhi.io.tcp.version>3.0.6</siddhi.io.tcp.version>
         <siddhi.io.email.version>2.0.8</siddhi.io.email.version>
         <siddhi.io.kafka.version>5.0.24</siddhi.io.kafka.version>
         <siddhi.io.http.version>2.3.8</siddhi.io.http.version>
-        <siddhi.io.websocket.version>3.0.3</siddhi.io.websocket.version>
+        <siddhi.io.websocket.version>3.0.4</siddhi.io.websocket.version>
         <siddhi.io.cdc.version>2.2.2</siddhi.io.cdc.version>
         <siddhi.io.grpc.version>1.0.16</siddhi.io.grpc.version>
         <protobuf.java.version>3.25.5</protobuf.java.version>

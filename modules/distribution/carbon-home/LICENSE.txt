@@ -185,7 +185,7 @@ siddhi-map-text-2.1.1.jar                                                       
 siddhi-execution-map-5.0.9.jar                                                                      bundle         apache2
 siddhi-io-grpc-1.0.16.jar                                                                           bundle         apache2
 auto-generated-gRPC-classes.jar                                                                     jarinbundle    apache2
-siddhi-io-websocket-3.0.3.jar                                                                       bundle         apache2
+siddhi-io-websocket-3.0.4.jar                                                                       bundle         apache2
 siddhi-map-json-5.2.6.jar                                                                           bundle         apache2
 siddhi-execution-json-2.0.11.jar                                                                    bundle         apache2
 siddhi-map-avro-2.2.6.jar                                                                           bundle         apache2
@@ -197,7 +197,7 @@ siddhi-io-kafka-5.0.24.jar                                                      
 siddhi-io-email-2.0.8.jar                                                                           bundle         apache2
 siddhi-execution-regex-5.0.7.jar                                                                    bundle         apache2
 siddhi-map-keyvalue-2.1.2.jar                                                                       bundle         apache2
-siddhi-io-file-2.0.30.jar                                                                           bundle         apache2
+siddhi-io-file-2.0.31.jar                                                                           bundle         apache2
 siddhi-map-binary-2.1.1.jar                                                                         bundle         apache2
 siddhi-execution-string-5.0.13.jar                                                                  bundle         apache2
 siddhi-script-js-5.1.0.jar                                                                          bundle         apache2
